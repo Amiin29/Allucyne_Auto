@@ -1,0 +1,53 @@
+2022-06-28 15:32:49,118 - test_Login.py:[19] - [INFO] - Test Do login started
+2022-06-28 15:32:49,173 - BasePage.py:[16] - [INFO] - typing on an element :usernamevalue entered as user
+2022-06-28 15:32:49,239 - BasePage.py:[16] - [INFO] - typing on an element :passwordvalue entered as bitnami
+2022-06-28 15:33:54,920 - test_Login.py:[19] - [INFO] - Test Do login started
+2022-06-28 15:33:54,977 - BasePage.py:[16] - [INFO] - typing on an element :usernamevalue entered as user
+2022-06-28 15:33:55,041 - BasePage.py:[16] - [INFO] - typing on an element :passwordvalue entered as bitnami
+2022-06-28 15:33:56,144 - test_Login.py:[22] - [INFO] - Test Do login finished
+2022-06-28 15:36:01,934 - test_Login.py:[19] - [INFO] - Test Do login started
+2022-06-28 15:36:01,997 - BasePage.py:[16] - [INFO] - typing on an element : username value entered as : user
+2022-06-28 15:36:02,057 - BasePage.py:[16] - [INFO] - typing on an element : password value entered as : bitnami
+2022-06-28 15:36:03,155 - test_Login.py:[22] - [INFO] - Test Do login finished
+2022-06-28 15:50:23,475 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 15:51:42,526 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 15:52:44,839 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 15:52:44,889 - BasePage.py:[16] - [INFO] - typing on an element : username value entered as : user
+2022-06-28 15:52:44,944 - BasePage.py:[16] - [INFO] - typing on an element : password value entered as : bitnami
+2022-06-28 15:55:00,181 - test_Ajout_user.py:[18] - [INFO] - Test Do login started
+2022-06-28 15:55:37,838 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 15:57:28,908 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 15:57:28,967 - BasePage.py:[16] - [INFO] - typing on an element : username value entered as : user
+2022-06-28 15:57:29,018 - BasePage.py:[16] - [INFO] - typing on an element : password value entered as : bitnami
+2022-06-28 16:02:24,030 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:02:24,030 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:03:44,432 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:03:47,549 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:07:17,905 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:08:07,609 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:08:10,671 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:08:54,199 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:08:58,200 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:10:10,535 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:10:15,262 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:11:00,962 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:11:05,532 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:12:04,840 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 16:12:10,741 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 16:15:19,476 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 16:17:12,396 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 16:18:09,099 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 16:18:15,195 - test_Login.py:[23] - [INFO] - Test Do login finished
+2022-06-28 16:19:22,335 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 16:20:39,416 - test_Login.py:[20] - [INFO] - Test Do login started
+2022-06-28 17:12:49,959 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:13:52,212 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:15:59,254 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:17:51,779 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:18:05,745 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 17:19:35,425 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:19:51,777 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 17:21:27,907 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:21:44,196 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
+2022-06-28 17:22:24,979 - test_Ajout_user.py:[19] - [INFO] - Test Do login started
+2022-06-28 17:22:41,960 - test_Ajout_user.py:[22] - [INFO] - Test Do login finished
